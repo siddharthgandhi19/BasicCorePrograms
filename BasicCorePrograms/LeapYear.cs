@@ -1,6 +1,6 @@
 ﻿using System;
-namespace FunctionalProgrammingProblems
-{
+namespace BasicCoreProgram
+{ 
     public class LeapYear
     {
         public void Leap()
